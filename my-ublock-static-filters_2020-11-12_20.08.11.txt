@@ -1,0 +1,15 @@
+! 2020/4/13 https://rutracker.org
+||rutrk.org/240x120/*.gif$image
+||betsonsport.ru/b/*$subdocument
+||cdn.advg.agency/static/offer/*$image
+||rutrk.org/240x400/*$image
+||robinbob.in/*$image
+
+! 2020/5/21 https://rutracker.org
+||rutrk.org/240x120/$image
+
+! 2020/7/29 https://www.outdoorfoodgathering.jp
+||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3901467508571459&output=html&h=280&slotname=6410405303&adk=3825416985&adf=1943760698&w=800&fwrn=4&fwrnh=100&lmt=1595992875&rafmt=3&psa=0&guci=2.2.0.0.2.2.0.0&format=800x280&url=https%3A%2F%2Fwww.outdoorfoodgathering.jp%2Finsect%2Fseminatto%2F&flash=0&fwr=0&rpe=1&resp_fmts=1&wgl=1&adsid=ChEI8Jn_-AUQsuH79_rQu5atARJBAIk369yHRhJEKs3fw0jmBcSjfyDYY5Gmi6RRgsSmCP6xTTp4Gi8lDZaTGWY9oWyjBi7mUeEJfRf6DWJum4yokTY&dt=1595994325906&bpp=16&bdt=659&idt=477&shv=r20200727&cbv=r20190131&ptt=9&saldr=aa&abxe=1&cookie=ID%3D493d94c91c76c63c%3AT%3D1595994326%3AS%3DALNI_MYilNmW52vVo67RF59De7k6Nhq1gg&prev_fmts=0x0&nras=1&correlator=7710537518209&frm=20&pv=1&ga_vid=1390165641.1595994326&ga_sid=1595994326&ga_hid=636552742&ga_fc=0&iag=0&icsg=2260598233147532&dssz=67&mdo=0&mso=0&u_tz=540&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=738&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&adx=245&ady=1969&biw=1686&bih=834&scr_x=0&scr_y=0&eid=21066433%2C21066532&oid=3&pvsid=588796380400698&pem=213&ref=h$subdocument
+
+! 2020-11-02 http://karapaia.com
+||karapaia.com/html/blogroll.html$subdocument
